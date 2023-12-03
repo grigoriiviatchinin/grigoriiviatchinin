@@ -27,7 +27,9 @@
 <a href="https://swagger.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
-  
+
+## **Портфолио**
+
 ## **Загляните в мои репозитории и давайте свяжемся!**
 <p align="center" dir="auto">
 <a href="https://www.linkedin.com/in/grigoriiviatchinin" rel="nofollow"><img src="https://camo.githubusercontent.com/5f3ccb62b8f534c3e3f82361b6d0d5b82b5916fd268905cec64e558275e4c20d/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d313339333026666f726d61743d706e67" width="40" height="40" alt="linkedin" data-canonical-src="https://img.icons8.com/?size=512&amp;id=13930&amp;format=png" style="max-width: 100%;"></a>
