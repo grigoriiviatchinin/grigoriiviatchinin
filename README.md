@@ -5,6 +5,7 @@
 - 👷‍♂️ Пришел в IT из телеком-компании
 - 👨‍🎓 Прошел курс ["Инженер по тестированию"](https://drive.google.com/file/d/14S2G5UeJHM1ba7jqmNRbzYP_Ln8qxeIp/view?usp=drive_link).
 ## **Инструменты которые я использую**
+icons/Qase.io.png
 <p align="center" dir="auto">
 <img src=https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7a7f22bfe9c48db7252938295d6da6cc3ed16d7b272ec6b687d569d426b5168b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/7a7f22bfe9c48db7252938295d6da6cc3ed16d7b272ec6b687d569d426b5168b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" title="jira" alt="jira" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="max-width: 100%;"></a>
