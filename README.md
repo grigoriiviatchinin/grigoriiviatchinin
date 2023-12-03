@@ -29,6 +29,9 @@
 </a>
 
 ## **Портфолио**
+- [Тестирование Веб-приложения Яндекс.Самокат](https://github.com/grigoriiviatchinin/web_testing.git)
+- [Тестирование мобильного приложения Яндекс.Самокат](https://github.com/grigoriiviatchinin/mobil_testing.git)
+- [API приложения Яндекс.Самокат](https://github.com/grigoriiviatchinin/api_testing.git)
 
 ## **Загляните в мои репозитории и давайте свяжемся!**
 <p align="center" dir="auto">
