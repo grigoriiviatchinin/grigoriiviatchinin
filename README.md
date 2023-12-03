@@ -24,6 +24,9 @@
 <a href="https://www.charlesproxy.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
 </a>
+<a href="https://swagger.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
+</a>
   
 ## **Загляните в мои репозитории и давайте свяжемся!**
 <p align="center" dir="auto">
