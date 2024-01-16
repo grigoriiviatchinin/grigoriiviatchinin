@@ -37,7 +37,7 @@
 ## Мои контакты 
 
 <p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/grigoriiviatchinin" rel="nofollow"><img src="https://camo.githubusercontent.com/5f3ccb62b8f534c3e3f82361b6d0d5b82b5916fd268905cec64e558275e4c20d/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d313339333026666f726d61743d706e67" width="40" height="40" alt="linkedin" data-canonical-src="https://img.icons8.com/?size=512&amp;id=13930&amp;format=png" style="max-width: 100%;"></a>
-<a href="https://t.me/Grishansky" rel="nofollow"><img src="https://camo.githubusercontent.com/8f1457035ad09687b42835771d69971ad1f3d2b5e79470d22623782de2419317/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d363333303626666f726d61743d706e67" width="40" height="40" alt="telegram" data-canonical-src="https://img.icons8.com/?size=512&amp;id=63306&amp;format=png" style="max-width: 100%;"></a>
-<a href="mailto:grishansky@gmail.com"><img src="https://camo.githubusercontent.com/0e8500b1d08c4de6397cc1a536d2ccc0227fe80bd866d484890e20d76b8bb3b4/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d503755496c686270577a5a6d26666f726d61743d706e67" width="40" height="40" alt="gmail" data-canonical-src="https://img.icons8.com/?size=512&amp;id=P7UIlhbpWzZm&amp;format=png" style="max-width: 100%;"></a>
+<a href= "https://www.linkedin.com/in/grigoriiviatchinin"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://t.me/Grishansky"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+<a href= "mailto:grishansky@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
